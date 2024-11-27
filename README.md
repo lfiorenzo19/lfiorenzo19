@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lfiorenzo19
+- 🌱 I'm currently learning about programming
